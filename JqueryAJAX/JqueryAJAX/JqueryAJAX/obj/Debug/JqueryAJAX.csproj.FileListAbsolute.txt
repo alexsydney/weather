@@ -1,0 +1,5 @@
+C:\Job\Weather\JqueryAJAX\JqueryAJAX\JqueryAJAX\bin\JqueryAJAX.dll
+C:\Job\Weather\JqueryAJAX\JqueryAJAX\JqueryAJAX\bin\JqueryAJAX.pdb
+C:\Job\Weather\JqueryAJAX\JqueryAJAX\JqueryAJAX\obj\Debug\JqueryAJAX.csprojResolveAssemblyReference.cache
+C:\Job\Weather\JqueryAJAX\JqueryAJAX\JqueryAJAX\obj\Debug\JqueryAJAX.dll
+C:\Job\Weather\JqueryAJAX\JqueryAJAX\JqueryAJAX\obj\Debug\JqueryAJAX.pdb
